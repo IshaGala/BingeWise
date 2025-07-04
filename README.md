@@ -1,5 +1,4 @@
-# BingeWise
-BingeWise - Movie Recommendation App
+# BingeWise- Movie Recommendation App
 Welcome to the **BingeWise** – your personal film curator powered by Natural Language Processing (NLP) and Machine Learning. Whether you're in the mood for action, romance, thrillers, or deep psychological dramas, our app suggests movies tailored just for you based on what you love!
 
 ---
